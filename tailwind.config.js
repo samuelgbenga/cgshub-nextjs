@@ -12,12 +12,12 @@ module.exports = {
         lgSidePad: "218px",
       },
       colors: {
-        primary: "ffffff",
-        sec1: "65DBC3",
-        sec1shades1: "56BEB6",
-        sec2shades2: "85CAB5",
-        gentextColor: "333333",
-        whiteVariance: "FBFBFB",
+        primary: "#ffffff",
+        sec1: "#65DBC3",
+        sec1shades1: "#56BEB6",
+        sec2shades2: "#85CAB5",
+        gentextColor: "#333333",
+        whiteVariance: "#FBFBFB",
       },
       fontSize: {
         h2Text: "28px",
